@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="padding_horizontal">6dp</dimen>
+    <dimen name="padding_vertical">8dp</dimen>
+
+    <dimen name="activity_margin_half">8dp</dimen>
+
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_slim">4dp</dimen>
+    <dimen name="spacing_micro">3dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <dimen name="banner_height">260dp</dimen>
+    <dimen name="feature_height">200dp</dimen>
+
+    <dimen name="keyline_4">40dp</dimen>
+
+    <dimen name="product_image_size">72dp</dimen>
+    <dimen name="product_image_size_large">144dp</dimen>
+    <dimen name="product_image_size_medium">86dp</dimen>
+    <dimen name="tag_image_size">36dp</dimen>
+
+    <dimen name="item_spacing_micro">4dp</dimen>
+    <dimen name="item_spacing_slim">6dp</dimen>
+    <dimen name="element_spacing_normal">12dp</dimen>
+    <dimen name="content_padding_normal">16dp</dimen>
+
+    <dimen name="explore_grid_padding_quarter">6dp</dimen>
+
+
+    <dimen name="text_size_xxxsmall">10sp</dimen>
+    <dimen name="text_size_xsmall">13sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+    <dimen name="text_size_xlarge">19sp</dimen>
+    <dimen name="text_size_xxlarge">21sp</dimen>
+    <dimen name="text_size_xxxlarge">24sp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10.5sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10.5sp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
+</resources>
